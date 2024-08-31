@@ -10,5 +10,5 @@ It is very exciting and fun, and doesn't make everything awful.
 8. Delete this text file. (Bye Bye)
 9. Use git checkout to restore the deleted file. (Yayyyy!)
 10. Do SSH thing. (Barf)
-quit
-exit
+GREAT JOB JAKE! YOU DID AMAZING AND SHOULD BE PROUD!! :)
+I CAN'T BELIEVE IT BUT YOU WORKED THROUGH IT! (This is step 6)
